@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/about/</loc>
+    <lastmod>2200-01-01T00:00:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/%E9%81%93%E5%A0%B4/%E5%9E%82%E6%B0%B4%E7%9D%A6%E4%BC%9A/</loc>
+    <lastmod>2017-08-11T22:50:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/%E9%81%93%E5%A0%B4/%E6%B8%85%E9%A2%A8%E4%BC%9A/</loc>
+    <lastmod>2017-08-11T22:11:26+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/</loc>
+    <lastmod>2200-01-01T00:00:09+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/tags/%E5%B0%BC%E5%B4%8E/</loc>
+    <lastmod>2017-08-11T22:11:26+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/tags/%E7%A5%9E%E6%88%B8/</loc>
+    <lastmod>2017-08-11T22:50:13+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/tags/%E9%81%93%E5%A0%B4/</loc>
+    <lastmod>2017-08-11T22:50:13+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/categories/%E9%81%93%E5%A0%B4/</loc>
+    <lastmod>2017-08-11T22:50:13+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jodo.hyogo.jp/%E9%81%93%E5%A0%B4/</loc>
+    <lastmod>2017-08-11T22:50:13+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

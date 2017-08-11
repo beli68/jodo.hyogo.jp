@@ -1,0 +1,17 @@
+baseURL = "http://jodo.hyogo.jp/"
+hasCJKLanguage = true
+languageCode = "ja-jp"
+# Pagination
+paginate =  5
+paginatePath = "page"
+
+theme = "hugo_theme_beg"
+title = "兵庫杖道ナビ"
+googleAnalytics = ""
+
+[[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "about"
+    url = "/about/"
