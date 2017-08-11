@@ -15,3 +15,9 @@ googleAnalytics = ""
     weight = -110
     identifier = "about"
     url = "/about/"
+[[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    identifier = "contact"
+    url = "/contact/"
