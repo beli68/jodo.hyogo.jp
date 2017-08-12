@@ -1,4 +1,4 @@
-baseURL = "http://jodo.hyogo.jp/"
+baseURL = "https://jodo.hyogo.jp/"
 hasCJKLanguage = true
 languageCode = "ja-jp"
 # Pagination
