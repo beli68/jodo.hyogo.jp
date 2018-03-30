@@ -1,6 +1,7 @@
 ---
-title: "兵庫杖道ナビ"
-date: 2200-01-01T00:00:09+09:00
+title: "About"
+#date: 2200-01-01T00:00:09+09:00
+menu: "main"
 draft: false
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Contact"
-date: 2017-08-12T01:42:38+09:00
-draft: falseｂ
+#date: 2017-08-12T01:42:38+09:00
+menu: "main"
+draft: false
 ---
 
 本サイトに対して、ご意見ご要望がある方は、以下の GitHub issues でご連絡下さい。
